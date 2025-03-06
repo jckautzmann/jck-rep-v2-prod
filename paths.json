@@ -5,6 +5,7 @@
     "/content/jck-rep-v2-prod/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/jck-rep-v2-prod/"
+    "/content/jck-rep-v2-prod/",
+    "/content/dam/jck-rep-v2-prod/"
   ]
 }
