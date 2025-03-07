@@ -6,7 +6,6 @@
   ],
   "includes": [
     "/content/jck-rep-v2-prod/",
-    "/content/dam/common",
     "/content/dam/jck-rep-v2-prod/"
   ]
 }
